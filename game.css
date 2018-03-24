@@ -1,0 +1,16 @@
+body {
+	font-family: "Consolas";
+	font-size: 18px;
+	line-height: 14px;
+	letter-spacing: 2px;
+	white-space: pre;
+	overflow: hidden;
+	text-align: center;
+}
+.hud {
+	display: block;
+}
+.p1hud, .p2hud {
+	width: 48%;
+	display: inline-block;
+}
